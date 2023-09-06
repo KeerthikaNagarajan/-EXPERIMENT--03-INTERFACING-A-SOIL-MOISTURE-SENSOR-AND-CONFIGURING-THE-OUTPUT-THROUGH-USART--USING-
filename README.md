@@ -67,7 +67,7 @@ connect the ARM board to power supply and usb
 check for execution of the output using run option
 
 ## STM 32 CUBE PROGRAM:
-```
+```c
 # SOURCE FILE:
 
 /* Includes ------------------------------------------------------------------*/
